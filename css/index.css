@@ -125,7 +125,7 @@ table td {
   vertical-align: middle;
 }
 *::selection {
-  background: #ffdead;
+  background: #ffaf60;
   color: #f7f7f7;
 }
 #nav #site_title,
@@ -3648,7 +3648,7 @@ figure.gallery-group .gallery-group-name:after {
   cursor: pointer;
 }
 #pagination .page-number.current {
-  background: #ffdead;
+  background: #ffaf60;
   color: #fff;
   cursor: default;
 }
@@ -4554,15 +4554,15 @@ img {
   transition: all 0.2s ease-in-out;
 }
 #sidebar .sidebar-toc .toc-link.active {
-  border-right-color: #ffbc57;
-  background: #ffdead;
+  border-right-color: #ff8c1a;
+  background: #ffaf60;
   color: #fff;
 }
 #sidebar .sidebar-toc__progress {
   position: relative;
   margin-bottom: 0.3rem;
   padding-left: 0.6rem;
-  color: #ffdead;
+  color: #ffaf60;
 }
 #sidebar .sidebar-toc__progress .progress-notice {
   margin-right: 0.4rem;
@@ -4574,7 +4574,7 @@ img {
 #sidebar .sidebar-toc__progress-bar {
   width: 0;
   height: 1px;
-  background: #ffdead;
+  background: #ffaf60;
 }
 @media screen and (max-width: 1024px) {
   i#toggle-sidebar {
